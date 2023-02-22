@@ -8,7 +8,7 @@ We can query from the Swagger interface, for this we can go to "localhost:8080/s
 
 To make a query, it is sufficient to enter the city name.
 
-![weather1.PNG](![weather1.PNG](src%2Fmain%2Fresources%2Fstatic%2Fweather1.PNG))
+![weather1.PNG](![https://github.com/ugurarican/WeatherApi/blob/master/WeatherApi/src/main/resources/static/weather1.PNG))
 
 # Getting Started
 ## Reference Documentation
